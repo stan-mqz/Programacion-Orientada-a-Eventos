@@ -8,7 +8,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon --exec npx tsx src/index.ts"
+    "dev": "npx tsx src/index.ts"
   },
   "dependencies": {
     "express": "^5.2.1"
